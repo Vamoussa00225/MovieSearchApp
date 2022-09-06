@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieSearchApp/static/css/main.fc5deb66.css",
+    "main.js": "/MovieSearchApp/static/js/main.7eb1a061.js",
+    "static/media/Dongle-Regular.ttf": "/MovieSearchApp/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
+    "static/media/Dongle-Light.ttf": "/MovieSearchApp/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
+    "index.html": "/MovieSearchApp/index.html",
+    "main.fc5deb66.css.map": "/MovieSearchApp/static/css/main.fc5deb66.css.map",
+    "main.7eb1a061.js.map": "/MovieSearchApp/static/js/main.7eb1a061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5deb66.css",
+    "static/js/main.7eb1a061.js"
+  ]
+}
