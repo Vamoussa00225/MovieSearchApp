@@ -1,1 +1,1 @@
-moviesearch.com
+$ dig moviesearch.com +nostats +nocomments +nocmd
